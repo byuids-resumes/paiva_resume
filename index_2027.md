@@ -1,12 +1,12 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Fabio Paiva's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Fabio S. Paiva
+(801)635-5846 | fspoasismac@byui.edu
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<div id="www.linkedin.com/in/fabio-s-paiva">
+<a href="fspoasismac@byui.edu">fspoasismac@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
