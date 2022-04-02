@@ -3,7 +3,7 @@ layout: cv
 title: Fabio Paiva's Resume
 ---
 
-## Fabio Paiva
+## Fabio S. Paiva
 
 
 <div id="webaddress">
